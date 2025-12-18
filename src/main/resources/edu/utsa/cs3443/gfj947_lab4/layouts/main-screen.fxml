@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.geometry.Insets?>
+
+<BorderPane xmlns="http://javafx.com/javafx"
+            xmlns:fx="http://javafx.com/fxml"
+            fx:controller="edu.utsa.cs3443.gfj947_lab4.MainScreenController">
+
+    <top>
+        <HBox spacing="10">
+            <padding>
+                <Insets top="10" right="10" bottom="10" left="10"/>
+            </padding>
+
+            <Label fx:id="welcomeLabel" text="Welcome!" />
+            <Pane HBox.hgrow="ALWAYS"/>
+            <Button text="Logout" onAction="#handleLogout"/>
+        </HBox>
+    </top>
+
+    <left>
+        <VBox spacing="10">
+            <padding>
+                <Insets top="10" right="10" bottom="10" left="10"/>
+            </padding>
+
+            <Label text="Sort Ships:"/>
+
+            <RadioButton fx:id="sortByNameRadio" text="By Name"/>
+            <RadioButton fx:id="sortByRegRadio" text="By Registration"/>
+
+            <Button text="List Ships" onAction="#handleListShips"/>
+        </VBox>
+    </left>
+
+    <center>
+        <TextArea fx:id="outputArea" wrapText="false"/>
+    </center>
+
+</BorderPane>
