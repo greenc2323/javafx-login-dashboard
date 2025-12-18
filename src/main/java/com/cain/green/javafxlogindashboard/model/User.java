@@ -1,4 +1,4 @@
-package edu.utsa.cs3443.gfj947_lab4.model;
+package com.cain.green.javafxlogindashboard.model;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,6 +1,6 @@
-package edu.utsa.cs3443.gfj947_lab4;
+package com.cain.green.javafxlogindashboard;
 
-import edu.utsa.cs3443.gfj947_lab4.model.User;
+import com.cain.green.javafxlogindashboard.model.User;
 import javafx.fxml.FXML;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Scene;

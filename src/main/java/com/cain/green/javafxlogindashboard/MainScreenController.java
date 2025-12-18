@@ -1,8 +1,8 @@
-package edu.utsa.cs3443.gfj947_lab4;
+package com.cain.green.javafxlogindashboard;
 
-import edu.utsa.cs3443.gfj947_lab4.model.AidShip;
-import edu.utsa.cs3443.gfj947_lab4.model.AidShipManager;
-import edu.utsa.cs3443.gfj947_lab4.model.User;
+import com.cain.green.javafxlogindashboard.model.AidShip;
+import com.cain.green.javafxlogindashboard.model.AidShipManager;
+import com.cain.green.javafxlogindashboard.model.User;
 import javafx.fxml.FXML;
 import javafx.fxml.FXMLLoader;
 import javafx.fxml.Initializable;

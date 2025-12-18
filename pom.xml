@@ -72,7 +72,7 @@
                     <execution>
                         <id>default-cli</id>
                         <configuration>
-                            <mainClass>edu.utsa.cs3443.gfj947_lab4.Launcher</mainClass>
+                            <mainClass>com.cain.green.javafxlogindashboard.Launcher</mainClass>
                         </configuration>
                     </execution>
                 </executions>

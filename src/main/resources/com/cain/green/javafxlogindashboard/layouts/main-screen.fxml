@@ -6,7 +6,7 @@
 
 <BorderPane xmlns="http://javafx.com/javafx"
             xmlns:fx="http://javafx.com/fxml"
-            fx:controller="edu.utsa.cs3443.gfj947_lab4.MainScreenController">
+            fx:controller="com.cain.green.javafxlogindashboard.MainScreenController">
 
     <top>
         <HBox spacing="10">

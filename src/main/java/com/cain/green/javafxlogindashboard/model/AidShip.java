@@ -1,4 +1,4 @@
-package edu.utsa.cs3443.gfj947_lab4.model;
+package com.cain.green.javafxlogindashboard.model;
 
 /**
  * AidShip extends Ship and implements navigation and emergency support informations.
