@@ -1,8 +1,8 @@
-package com.cain.green.javafxlogindashboard;
+package com.first.last.javafxlogindashboard;
 
-import com.cain.green.javafxlogindashboard.model.AidShip;
-import com.cain.green.javafxlogindashboard.model.AidShipManager;
-import com.cain.green.javafxlogindashboard.model.User;
+import com.first.last.javafxlogindashboard.model.AidShip;
+import com.first.last.javafxlogindashboard.model.AidShipManager;
+import com.first.last.javafxlogindashboard.model.User;
 import javafx.fxml.FXML;
 import javafx.fxml.FXMLLoader;
 import javafx.fxml.Initializable;
