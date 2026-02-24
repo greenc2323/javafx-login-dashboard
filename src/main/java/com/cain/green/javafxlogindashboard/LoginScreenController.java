@@ -1,4 +1,4 @@
-package com.cain.green.javafxlogindashboard;
+package com.first.greenjavafxlogindashboard;
 
 import com.cain.green.javafxlogindashboard.model.User;
 import javafx.fxml.FXML;
