@@ -1,6 +1,6 @@
 package com.first.last.javafxlogindashboard;
 
-import com.cain.green.javafxlogindashboard.model.User;
+import com.first.last.javafxlogindashboard.model.User;
 import javafx.fxml.FXML;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Scene;
