@@ -1,4 +1,4 @@
-package com.example.javafxlogindashboard;
+package com.first.last.javafxlogindashboard;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
