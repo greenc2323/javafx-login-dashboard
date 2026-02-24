@@ -1,4 +1,4 @@
-package com.cain.green.javafxlogindashboard;
+package com.example.javafxlogindashboard;
 
 import javafx.application.Application;
 
